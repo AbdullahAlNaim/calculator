@@ -1,0 +1,61 @@
+body {
+    background-color: azure;
+}
+
+#calcase {
+    background-color: rgb(39, 39, 39);
+    width: 298px;
+    height: 450px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input {
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 260px;
+    height: 70px;
+    background-color: rgb(152, 172, 146);
+    font-size: 40px;
+}
+
+.buttonz {
+    margin-top: 2%;
+    margin-left: 4.2%;
+}
+
+.pressing,
+.pressingS {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin: 2.5px;
+    font-size: 50px;
+}
+
+.b {
+    background-color: rgb(40, 176, 176);
+    width: 30%;
+    height: 10px;
+    border: solid 2px green;
+    padding: 2px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.solar {
+    background-color: azure;
+    width: 100px;
+    height: 25px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    display: inline-block;
+}
+
+#clear {
+    margin-left: 29.5%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+
+}
