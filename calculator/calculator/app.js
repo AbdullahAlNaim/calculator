@@ -32,15 +32,6 @@ add.addEventListener('click', () => {
 
 
 
-
-
-
-
-
-
-
-
-
 times.addEventListener('click', () => {
     input.value = '';
 
